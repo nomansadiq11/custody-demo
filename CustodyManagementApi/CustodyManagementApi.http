@@ -1,0 +1,6 @@
+@CustodyManagementApi_HostAddress = http://localhost:5278
+
+GET {{CustodyManagementApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
